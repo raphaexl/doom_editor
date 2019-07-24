@@ -1,0 +1,23 @@
+2 7 0 541 343
+./textures/t1.tex
+./textures/t2.tex
+./textures/banner.tex
+./textures/stonewall.tex
+./textures/tekwall.tex
+./textures/ironwall.tex
+./textures/floor.tex
+sector: 200 200 6 6 0 0
+	2710 5990 4680 7470 3 0
+	2710 5990 2620 3140 3 0
+	2620 3140 4240 1740 3 0
+	4240 1740 15250 1650 3 0
+	4680 7470 15160 7420 3 0
+	15160 7420 11160 5720 3 0
+	15250 1650 11040 3170 3 0
+portals:
+	11040 3170 11160 5720 1 5
+sector: 1000 1000 6 6 0 0
+	25500 3690 11040 3170 5 0
+	25500 3690 11160 5720 5 0
+portals:
+	11040 3170 11160 5720 0 5

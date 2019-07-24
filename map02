@@ -1,0 +1,44 @@
+2 27 0 609 510
+./textures/-42.png.tex
+./textures/banner.tex
+./textures/cell.tex
+./textures/download.jpg.tex
+./textures/estimable-wood-door-texture-door-wood-texture-seamless-crowdbuild-for-wood-door-texture-l-c4fac1edc863bf2c.jpg.tex
+./textures/fence.tex
+./textures/floor.tex
+./textures/hellcaco1.png.tex
+./textures/hellcaco2.png.tex
+./textures/hellcaco3.png.tex
+./textures/hellcaco4.png.tex
+./textures/hellcaco5.png.tex
+./textures/hellcaco6.png.tex
+./textures/hellcaco7.png.tex
+./textures/hellcaco8.png.tex
+./textures/ironwall.tex
+./textures/left_newsoul.png.tex
+./textures/neon.tex
+./textures/newsoul.png.tex
+./textures/pigcop.tex
+./textures/rasbiri.tex
+./textures/right_newsoul.png.tex
+./textures/skull.tex
+./textures/stonewall.tex
+./textures/t1.tex
+./textures/t2.tex
+./textures/tekwall.tex
+sector: 500 0 6 6 0 0
+	2480 6820 2750 1960 23 0
+	2750 1960 13500 1900 23 0
+	13500 1900 13510 6480 23 0
+	13510 6480 2480 6820 23 0
+portals:
+	7430 4680 7380 4130 1 24
+	7380 4130 7880 4130 1 24
+	7880 4130 7920 4630 1 24
+	7920 4630 7430 4680 1 24
+sector: 500 -400 6 24 0 0
+portals:
+	7430 4680 7380 4130 0 24
+	7380 4130 7880 4130 0 24
+	7880 4130 7920 4630 0 24
+	7920 4630 7430 4680 0 24
